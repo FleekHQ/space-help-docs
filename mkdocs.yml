@@ -1,0 +1,48 @@
+site_name: "Help & Documentation"
+site_author: space.storage
+site_url: https://help.space.storage/
+copyright: '© 2020 Fleek'
+repo_name: fleekhq/space-docs
+repo_url: https://github.com/fleekhq/space-help-docs
+theme:
+  name: material
+  favicon: './imgs/fav.ico'
+  logo: './imgs/logo.png'
+  font:
+    text: 'Open Sans'
+extra_css:
+  - 'stylesheets/extra.css'
+markdown_extensions:
+  - codehilite
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
+nav:
+  - Introduction: index.md
+  - Getting Started:
+    - Overview: getting-started/overview.md
+    - Creating an Account: getting-started/creating-account.md
+    - Uploading Files: getting-started/uploading-files.md
+    - Sharing Files: getting-started/sharing-files.md
+    - Adjusting Settings: getting-started/adjusting-settings.md
+  - Protocols Overview:
+    - Overview: protocols-overview/overview.md
+  - Space SDK:
+    - Overview: space-sdk/overview.md
+  - Space Daemon:
+    - Overview: space-daemon/overview.md
+    - Getting Started: space-daemon/getting-started.md
+    - Examples: space-daemon/examples.md
+    - Security And Cryptography: space-daemon/crypto.md
+    - Reset Environment: space-daemon/reset-env.md
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/FleekHQ
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/spacestorage
+    - icon: fontawesome/brands/slack
+      link: https://slack.fleek.co/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCBzlwYM0JjZpjDZ52-SLUmw
