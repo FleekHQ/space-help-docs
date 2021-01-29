@@ -27,19 +27,19 @@ Welcome to Space! Unlike storing and sharing files on the cloud, Space is a user
 Get started by setting up your account, and getting your first file to Space.
 
 <div class="prev-boxes-list">
-<a href="./creating-account/" class="prev-box">
+<a href="https://help.space.storage/getting-started/creating-account/" class="prev-box">
 <h5>Creating an Account</h5>
 <p>With familiar or high privacy options</p>
 </a>
-<a href="./uploading-files/" class="prev-box">
+<a href="https://help.space.storage/getting-started/uploading-files/" class="prev-box">
 <h5>Uploading Files</h5>
 <p>Store files and folders in Space</p>
 </a>
-<a href="./sharing-files/" class="prev-box">
+<a href="https://help.space.storage/getting-started/sharing-files/" class="prev-box">
 <h5>Sharing Files</h5>
 <p>Share privately, or with public links</p>
 </a>
-<a href="./adjusting-settings/" class="prev-box">
+<a href="https://help.space.storage/getting-started/adjusting-settings/" class="prev-box">
 <h5>Adjusting Settings</h5>
 <p>Personalize your account</p>
 </a>
