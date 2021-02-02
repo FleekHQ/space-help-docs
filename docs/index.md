@@ -18,7 +18,7 @@ Welcome to Space's documentation. Here you can find quick tips on how to get sta
 
 **Need support or have an idea to share?** talk to our team using the **pop-up chat window** to the right of the screen.
 
-Space is an open-source, user-controlled, and encrypted platform for storing and sharing files. It is built using Open Web protocols like IPFS, Textile, Filecoin, GunDB, Ethereum, and Torus through the open source Space SDK library, built by us to and available for anyone that also wants to create applications or websites powered by the underlying protocols of the Open Web. Made by the team at [Fleek](https://fleek.co/).
+Space is an open-source, user-controlled, and encrypted platform for storing and sharing files. It is built using Open Web protocols like IPFS, Textile, Filecoin, GunDB, and Ethereum through the open source Space SDK library, built by us to and available for anyone that also wants to create applications or websites powered by the underlying protocols of the Open Web. Made by the team at [Fleek](https://fleek.co/).
 
 In its first Beta release, Space is available as a **browser application**, accessible from any browser through our [Website](https://space.storage).
 
@@ -51,7 +51,7 @@ Set up your Space account, upload your first file, learn how to share, and make 
 
 ## Protocol Stack Overview
 
-Learn how we leverage the underlying protocols of the Open Web (IPFS, Filecoin, Textile GunDB, Torus, and Ethereum) to power features in Space like distributed and user-controlled storage, private file sharing, and user-owned accounts that are Ethereum-based.
+Learn how we leverage the underlying protocols of the Open Web (IPFS, Filecoin, Textile GunDB, and Ethereum) to power features in Space like distributed and user-controlled storage, private file sharing, and user-owned accounts that are Ethereum-based.
 
 <div class="prev-boxes-list">
 <a href="./protocols-overview/overview/" class="prev-box">
@@ -63,9 +63,9 @@ Learn how we leverage the underlying protocols of the Open Web (IPFS, Filecoin, 
 
 ## Space SDK
 
-The Space web application is built using the Space SDK, a modular JS library that packages the IPFS, Textile, Filecoin, GunDB, and Torus implementations necessary to build Open Web apps into easy to use commands and interfaces. It's open source and designed as a tool that anyone can plug into their websites or applications and implement Web3-enabled functionalities to make their projects more trustless and user-controlled. 
+The Space web application is built using the Space SDK, a modular JS library that packages the IPFS, Textile, Filecoin, and GunDB implementations necessary to build Open Web apps into easy to use commands and interfaces. It's open source and designed as a tool that anyone can plug into their websites or applications and implement Web3-enabled functionalities to make their projects more trustless and user-controlled. 
 
-It's the successor of the Space Daemon, our desktop-based library. The Space SDK take the perks of the Daemon (encryption, user-controlled storage, peer-to-peer interactions, etc.) and makes them available on browser and mobile experiences. It's modular, and protocol agnostic, meaning you can use our own implementations (Textile hub for users, for example) or plug in your own layer and still leverage the SDK as an interface to manage it.
+It's the successor of the Space Daemon, our desktop-based library. The Space SDK take the perks of the Daemon (encryption, user-controlled storage, peer-to-peer interactions, etc.) and makes them available on browser and mobile experiences. It's modular, and protocol agnostic, meaning you can use our own implementations (Textile hub for users, for example) or plug in your own layer and still leverage the SDK as an interface to manage it. For example, we plug in Torus as a seamless key management layer!
 
 <div class="prev-boxes-list">
 <a href="./space-sdk/overview/#Introduction" class="prev-box">
