@@ -22,7 +22,11 @@ The [Space SDK](https://github.com/FleekHQ/space-sdk) is a Javascript/Typescript
 ### **Technical Documentation**
 > This is a general overview of the SDK, its purpose, and features. For in depth usage guidance, read the Space SDK's [complete documentation](https://fleekhq.github.io/space-sdk/docs/) page.
 
-**Github Repository**: [Space SDK](https://github.com/FleekHQ/space-sdk/)
+**You can find the repository and documentation here:**
+
+* [Space SDK Github Page](https://github.com/FleekHQ/space-sdk)
+* [Space SDK Documentation](https://fleekhq.github.io/space-sdk/docs/)
+* [Entire Space SDK package breakdown](https://fleekhq.github.io/space-sdk/docs/sdk)
 
 ## Introduction
 The Space SDK is a set of modular interfaces that include all necessary tools to build the base feature/architecture layer of applications and websites, but powered with Open Web protocols that give that layer trustless, decentralized, or user-controlled characteristics:
@@ -32,12 +36,12 @@ The Space SDK is a set of modular interfaces that include all necessary tools to
 - Private and end-to-end encrypted file sharing.
 - Decentralized / trustless key & metadata storage and handling.
 
-The Space SDK packages these features in a set of modules or interfaces that you as a user can use as is, with the current protocol implementations, or personalize to add -for example- your own custom storage layer instead of using Textile/IPFS.
+The Space SDK packages these features in a set of APIs and interfaces that you as a user can use as is, with the current protocol implementations, or personalize to add -for example- your own custom storage layer instead of using Textile/IPFS.
 
-## Currently Available Modules
-The Space SDK currently includes the following modules:
+## Currently Available APIs
+The Space SDK currently includes the following API:
 
-|Module   	|Description  	| Default Implementation
+|API/Module   	|Description  	| Default Implementation
 |-:	|-	|-	|
 | Users 	|  Key-pair based identity creation, and challenge authentication.	| Textile Users API
 | Storage 	|  File, directory, and bucket creation/listing.	| IPFS / Textile / GunDB
