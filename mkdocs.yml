@@ -36,6 +36,8 @@ nav:
     - Examples: space-daemon/examples.md
     - Security And Cryptography: space-daemon/crypto.md
     - Reset Environment: space-daemon/reset-env.md
+  - Troubleshooting:
+    - Overview: troubleshooting/email-not-available.md
 extra:
   social:
     - icon: fontawesome/brands/github-alt

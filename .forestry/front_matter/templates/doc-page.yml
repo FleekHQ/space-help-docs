@@ -24,3 +24,4 @@ pages:
 - docs/space-daemon/reset-env.md
 - docs/space-sdk/overview.md
 - docs/protocols-overview/overview.md
+- docs/troubleshooting/email-not-available.md
