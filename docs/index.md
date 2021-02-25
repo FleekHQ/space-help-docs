@@ -2,24 +2,20 @@
 date: "1"
 
 ---
-<script>
-  window.intercomSettings = {
-    app_id: "ywevvpcu"
-  };
-</script>
-
-<script>
-// We pre-filled your app ID in the widget URL: 'https://widget.intercom.io/widget/ywevvpcu'
-(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/ywevvpcu';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
-</script>
 ![](imgs/Intro.png)
 
-Welcome to Space's documentation. Here you can find quick tips on how to get started using our platform and insight on the platform's technical architecture. 
+Welcome to Space's documentation! A storage and file sharing platform built by the team at [Fleek](http://fleek.co/). Here you can find quick tips on how to get started using our platform and insight on the platform's technical architecture. 
 
-**Need support or have an idea to share?** talk to our team using the **pop-up chat window** to the right of the screen.
+## Need support or have an idea to share?
+
+Talk to our team! You can reach us via the following channels:
+
+- The Space Support channel in [Fleek's Public Slack](https://slack.fleek.co/).
+- Our [Twitter](https://twitter.com/spacestorage) account, via a tweet or DM.
+- Or at our support email: <support@space.storage>
 
 Space is an open-source, user-controlled, and encrypted platform for storing and sharing files. It is built using Open Web protocols like IPFS, Textile, Filecoin, GunDB, and Ethereum through the open source Space SDK library, built by us to and available for anyone that also wants to create applications or websites powered by the underlying protocols of the Open Web. Made by the team at [Fleek](https://fleek.co/).
-
+ 
 In its first Beta release, Space is available as a **browser application**, accessible from any browser through our [Website](https://space.storage).
 
 ## Getting Started
