@@ -4,7 +4,7 @@ date: "1"
 ---
 ![](imgs/Intro.png)
 
-Welcome to Space's documentation! A storage and file sharing platform built by the team at [Fleek](http://fleek.co/). Here you can find quick tips on how to get started using our platform and insight on the platform's technical architecture. 
+Welcome to [Space's](https://space.storage/) documentation! A storage and file sharing platform built by the team at [Fleek](http://fleek.co/). Here you can find quick tips on how to get started using our platform and insight on the platform's technical architecture. 
 
 ## Need support or have an idea to share?
 
