@@ -8,7 +8,7 @@ After uploading files in Space, you can share them securely with whoever you wan
 
 !!! info
 
-    Currently you can share files using email to specify the users and non-user you want to share your file with. Soon, we will add support for identifying the people you want to share with 
+    Currently you can share files using email to specify the users and non-user you want to share your file with. Soon, we will add support for identifying the people you want to share with using any of the sign-in and sign up methods available on Space (Twitter, Wallet addresses, etc.)
 
 
 File sharing has two main categories: **private file sharing, and public file sharing.**
