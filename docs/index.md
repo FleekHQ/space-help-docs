@@ -6,7 +6,7 @@ date: "1"
 
 Welcome to [Space's](https://space.storage/) documentation! A storage and file sharing platform built by the team at [Fleek](http://fleek.co/). Here you can find quick tips on how to get started using our platform and insight on the platform's technical architecture. 
 
-## Need support or have an idea to share?
+## Need support or have a new idea to share?
 
 Talk to our team! You can reach us via the following channels:
 
